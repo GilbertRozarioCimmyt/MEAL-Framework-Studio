@@ -1,0 +1,50 @@
+[
+  {
+    "id": "basic-research-gene-editing",
+    "userLabel": "Basic Research / Gene Editing",
+    "canonicalName": "Upstream discovery science",
+    "footnote": "⁶",
+    "focus": "Gene editing, molecular biology, trait discovery, functional genomics, bioinformatics, controlled environment studies.",
+    "note": "Intervenes at the molecular and trait level, evaluated in controlled environments and laboratories where field output is not the endpoint."
+  },
+  {
+    "id": "breeding",
+    "userLabel": "Breeding",
+    "canonicalName": "Breeding and varietal development",
+    "footnote": "⁴",
+    "focus": "Genomic selection, breeding pipelines, varietal improvement, multi-location trials, seed readiness.",
+    "note": "Intervenes on germplasm, evaluated at trial level."
+  },
+  {
+    "id": "seed-systems",
+    "userLabel": "Seed Systems",
+    "canonicalName": "Seed systems and deployment",
+    "footnote": "²",
+    "focus": "Multiplication, adaptive testing, varietal dissemination, distribution networks.",
+    "note": "Intervenes through varieties reaching farmers' fields."
+  },
+  {
+    "id": "digital-innovation",
+    "userLabel": "Digital Innovation / Digital Components",
+    "canonicalName": "Digital agriculture and AI",
+    "footnote": "⁵",
+    "focus": "Advisory systems, interoperability, AI/LLM platforms, digital extension.",
+    "note": "Intervenes on farmer decisions at farm level; reports on outcome/impact indicators only where it operates its own ground measurement."
+  },
+  {
+    "id": "systems-delivery",
+    "userLabel": "Systems Delivery",
+    "canonicalName": "Applied agronomy and farming systems",
+    "footnote": "¹",
+    "focus": "Regenerative agriculture, conservation agriculture, nutrient management, water management.",
+    "note": "A focused delivery intervention, service delivery model or implementation mechanism, intervening on management at trial and farm level. Smaller in scope than a full Hub Model."
+  },
+  {
+    "id": "hub-model",
+    "userLabel": "Hub Model",
+    "canonicalName": "System change and transformation",
+    "footnote": "³",
+    "focus": "Agri-food system transformation, rural innovation hubs, livelihoods, climate resilience, policy integration, employment ecosystems.",
+    "note": "The most integrated systems-level intervention: potentially multiple services, actors, geographies and delivery pathways, intervening at farm level across every thread of a pathway."
+  }
+]

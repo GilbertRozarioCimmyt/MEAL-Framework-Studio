@@ -1,0 +1,70 @@
+version: "3.9"
+
+# ============================================================
+# MEAL Framework Studio — full stack (MySQL + Django + React)
+# Usage:
+#   docker compose up --build
+# ============================================================
+
+services:
+
+  # ── MySQL ─────────────────────────────────────────────────
+  db:
+    image: mysql:8.4
+    restart: unless-stopped
+    environment:
+      MYSQL_DATABASE: ${DB_NAME:-meal_studio}
+      MYSQL_USER: ${DB_USER:-meal_user}
+      MYSQL_PASSWORD: ${DB_PASSWORD:-changeme}
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-rootchangeme}
+    volumes:
+      - db_data:/var/lib/mysql
+    ports:
+      - "3306:3306"   # expose for local MySQL clients; remove in production
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  # ── Django backend ─────────────────────────────────────────
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    env_file:
+      - ./backend/.env
+    environment:
+      DB_HOST: db
+      DB_PORT: "3306"
+      DATA_DIR: /app/data
+    volumes:
+      - uploads_data:/app/data/uploads
+    ports:
+      - "8000:8000"   # expose for direct API access in dev; hidden in prod
+    command: >
+      sh -c "python manage.py migrate --noinput &&
+             gunicorn meal_backend.wsgi:application
+               --bind 0.0.0.0:8000
+               --workers 2
+               --timeout 120
+               --access-logfile -"
+
+  # ── React frontend (nginx) ─────────────────────────────────
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    depends_on:
+      - backend
+    ports:
+      - "80:80"
+
+volumes:
+  db_data:
+  uploads_data:

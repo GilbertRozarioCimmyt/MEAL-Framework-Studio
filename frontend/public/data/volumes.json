@@ -1,0 +1,169 @@
+[
+  {
+    "volumeNumber": 1,
+    "volumeTitle": "Innovation development and scaling",
+    "tagline": "What was built, who took it up, and did it hold?",
+    "pathwayType": "Impact Pathway",
+    "indicatorCounts": {
+      "total": 15,
+      "output": 7,
+      "outcome": 7,
+      "impact": 1
+    },
+    "introSummary": "This volume carries the full reference sheets for the Innovation development & scaling pathway, one of thirteen Pathway Volumes in the CIMMYT Indicator Toolbox, with 15 indicators (7 output, 7 outcome, 1 impact). Three indicator groups run in five strands and converge on one impact indicator: the innovation-object strand (co-development to release), the farmer-reach strand (training/access to adoption), the partnership strand (agreements to repeat-partnering and quality, run twice on Mission and Institutional branches), and the farmer-responsive research strand (co-defined priorities to portfolio responsiveness), all feeding KPI-I01 (partner-of-choice standing). The strands are not commensurable and are never pooled across results levels; only three arithmetic dependencies exist (OC02 denominator feeds OC01, the O18/O20 union feeds OC16's denominator, and O25's register feeds OC23's numerator as a lookup). Every project type can contribute innovations, reach farmers, or hold partnership instruments except four institutional-only indicators (KPI-O57, KPI-OC05, KPI-OC60, KPI-I01), which have no project instance."
+  },
+  {
+    "volumeNumber": 2,
+    "volumeTitle": "Capacity, data and institutions",
+    "tagline": "Whose capacity grew, and did the systems hold?",
+    "pathwayType": "Impact Pathway",
+    "indicatorCounts": {
+      "total": 10,
+      "output": 5,
+      "outcome": 5
+    },
+    "introSummary": "This volume carries ten reference sheets for the Capacity, data & institutions pathway, organized into four results chains: Capacity, data & institutional integrity (KPI-O04 individuals trained, feeding KPI-OC04 digital-skills gap, which also feeds Vol. 1 KPI-I01 partner-of-choice); Digital advisory & service delivery (KPI-O26 farmers reached, KPI-O27 providers strengthened, feeding KPI-OC24, terminal to PO3); Research data governance & FAIR (KPI-O44 FAIR datasets, KPI-O05 sex-disaggregated datasets, feeding KPI-OC41 FAIR compliance share); and Research ethics & safeguards (KPI-OC42 safeguards documentation, KPI-OC46 informed consent, whose output rung is built at Vol. 11 KPI-O47). None of the four chains ends at an impact indicator owned by this pathway. The groups measure incommensurable units (persons, farmers, organizations, datasets, percentage shares) and are never pooled across each other. Four indicators (KPI-O44, KPI-OC41, KPI-OC42, KPI-OC46) are Institutional, computed once at CIMMYT-corporate level with no project instance at all."
+  },
+  {
+    "volumeNumber": 3,
+    "volumeTitle": "Nutrition and food security",
+    "tagline": "Are diets better, and is food security holding?",
+    "pathwayType": "Impact Pathway",
+    "indicatorCounts": {
+      "total": 12,
+      "output": 4,
+      "outcome": 7,
+      "impact": 1
+    },
+    "introSummary": "This pathway carries twelve Mission indicators, all under PO2 (food and nutrition security within planetary boundaries) with PO3 contributing, and all sharing one CGIAR Impact Area (Nutrition, Health & Food Security). Three indicator groups run separate routes that converge on a single impact indicator (KPI-I02, food-insecurity prevalence via FIES): Biofortification & nutrient-dense crops follows material from development (KPI-O09) through release (KPI-O07) to dissemination (KPI-O06), then farmer cultivation (KPI-OC10), grain availability (KPI-OC08) and equitable reach (KPI-OC15); Food & nutrition security runs from people reached with nutrition-sensitive information (KPI-O08) to improved knowledge/attitudes/practices (KPI-OC06) and per-capita staple availability (KPI-OC13); Dietary adequacy & affordability has no output, only dietary energy adequacy (KPI-OC07) and diet affordability (KPI-OC09). The three groups and their indicators are never pooled or summed against each other since they measure different constructs (variety-country events, per-capita kilograms, shares of different denominators); overlaps between indicators (e.g. across the biofortification pipeline stages, or between KPI-O08 and other reach indicators) are stated rather than netted out or added."
+  },
+  {
+    "volumeNumber": 4,
+    "volumeTitle": "Genetic resources, breeding and seed systems",
+    "tagline": "What was bred, released and reached farmers, and did it hold?",
+    "pathwayType": "Impact Pathway",
+    "indicatorCounts": {
+      "total": 11,
+      "output": 8,
+      "outcome": 3
+    },
+    "introSummary": "This volume carries the full reference sheets for the Genetic resources, breeding & seed pathway (11 Mission indicators, all on the Excellence in Science and Innovation strategy component), organized into four indicator groups that form one pipeline: trait discovery & characterisation, variety development & release, genebank conservation & use, and seed multiplication & delivery. The CGIAR Impact Area is set by what each indicator measures rather than fixed for the whole pathway (8 indicators carry Nutrition, Health & Food Security; 3 carry Environmental Health & Biodiversity). The pathway measures the seed system on the supply side only — genetic material becoming available (accessions, traits, varieties, seed volume, varietal age) — and does not measure who obtains the seed or whether access differs by sex, age, wealth or distance from market. Counted objects across indicators are not commensurable and are never pooled into a single figure; for example, variety releases, entry into multiplication, and on-farm varietal age are three separate milestones for the same varieties and must never be summed."
+  },
+  {
+    "volumeNumber": 5,
+    "volumeTitle": "Income and livelihoods",
+    "tagline": "Are farm households better off, and does the gain persist?",
+    "pathwayType": "Impact Pathway",
+    "indicatorCounts": {
+      "total": 9,
+      "output": 2,
+      "outcome": 5,
+      "impact": 2
+    },
+    "introSummary": "This volume carries the full reference sheets for the Income & livelihoods pathway, one of thirteen Pathway Volumes in the CIMMYT Indicator Toolbox, contributing to PO3 (resilient, improved smallholder livelihood trajectories) and PO4 (inclusive, efficient agrifood systems), and reporting against the Poverty Reduction, Livelihoods & Jobs CGIAR impact area. Four threads run in parallel and converge on two impact indicators: finance (KPI-O19 to KPI-OC17), market access (KPI-O22 to KPI-OC21), farm (KPI-OC18/KPI-OC63 to KPI-I03), and system/enterprise (KPI-OC32 to KPI-I04). The threads measure at three different units — farmers, farms, enterprises, and job positions — and are never pooled together, since sales are not income, a gross margin is not income either, and a farm's sale and the buying enterprise's revenue are one transaction seen from two sides."
+  },
+  {
+    "volumeNumber": 6,
+    "volumeTitle": "Resilience and climate adaptation",
+    "tagline": "Can farming systems absorb shocks, and do the gains hold?",
+    "pathwayType": "Impact Pathway",
+    "indicatorCounts": {
+      "total": 9,
+      "output": 2,
+      "outcome": 3,
+      "impact": 4
+    },
+    "introSummary": "This volume carries the full reference sheets for the Resilience & climate pathway, one of thirteen Pathway Volumes, comprising nine Mission indicators under Excellence in Science and Innovation, none sharing one single primary objective (four take PO3, two take PO4, three take PO5), all defaulting to CGIAR Impact Area Climate Adaptation and Mitigation pathway-wide. Two indicator groups structure the pathway: Resilience and climate risk runs farmers accessing resilience-building practices (KPI-O21) to adoption (KPI-OC20) to three separate impact readings of one shock (income maintained KPI-I05, yield loss avoided KPI-I07, area with enhanced resilience KPI-I12); Crisis anticipation and response runs tools delivered (KPI-O41) to institutional capacity (KPI-OC38) to reduced food-security losses during disruptions (KPI-I17). The two groups are never pooled together, and several units and indicators are explicitly never summed across levels or with related pathways (e.g. KPI-OC36/KPI-I12 share land with KPI-OC33/KPI-I10 in Environmental sustainability). Four project types (Applied agronomy and farming systems, System change and transformation, Digital agriculture and AI, Seed systems and deployment) report widely across the pathway; Breeding and varietal development is confined to the resilience group; Upstream discovery science reports on none of the nine indicators."
+  },
+  {
+    "volumeNumber": 7,
+    "volumeTitle": "Productivity",
+    "tagline": "What a system yields, per unit of land, labour, water and input.",
+    "pathwayType": "Impact Pathway",
+    "indicatorCounts": {
+      "total": 9,
+      "output": 4,
+      "outcome": 4,
+      "impact": 1
+    },
+    "introSummary": "This volume carries the Productivity pathway's 9 indicators (up from 8 in the previous edition, with a new post-harvest loss indicator added), contributing to CIMMYT 2030 PO3 (and secondarily PO2, PO4) and reporting mainly against the Nutrition, Health and Food Security impact area, with Poverty Reduction, Livelihoods and Jobs as the labour thread's and the impact indicator's secondary reading. Three parallel, non-commensurable threads (crop, livestock, labour) each run from a measured output level through change-and-stability at outcome level over a multi-season window, and converge on one impact indicator (KPI-I06) that counts farmers whose own productivity rose detectably on at least one of the three measures, counting each farmer once. Alongside the three threads, a new post-harvest loss group holds one outcome indicator, KPI-OC65 (change in on-farm post-harvest loss of target grain crops), which does not feed KPI-I06 but instead contributes to per-capita staple food availability in Volume 3. A project type contributes only where its intervention acts on the unit at which crop or livestock output, labour, or grain loss is observed and where the project measures at that unit: applied agronomy and farming systems contributes to every indicator; seed systems and deployment through varieties reaching fields (forage/fodder included) and, for post-harvest loss, where the variety's trait acts after harvest; system change and transformation at farm level across all threads and on post-harvest loss; breeding and varietal development at trial level and on post-harvest-relevant traits; digital agriculture and AI only where it runs its own ground measurement; upstream discovery science generally does not contribute, working upstream of field-level output."
+  },
+  {
+    "volumeNumber": 8,
+    "volumeTitle": "Gender equality, youth and social inclusion",
+    "tagline": "Who is included, who decides, and who benefits?",
+    "pathwayType": "Impact Pathway",
+    "indicatorCounts": {
+      "total": 10,
+      "output": 4,
+      "outcome": 5,
+      "impact": 1
+    },
+    "introSummary": "This volume carries the ten reference sheets for CIMMYT's Gender equality, youth and social inclusion pathway, contributing chiefly to PO3 (resilient, improved smallholder livelihood trajectories) and also to PO4 and PO5, and reporting against the CGIAR Gender Equality, Youth and Social Inclusion impact area. Five indicator groups run at four measurement units: women's empowerment (engagement, unpaid-work hours and its change, decision-making power), youth inclusion (engagement, value-chain participation), GEYSI in policy and investments (instruments developed, decisions integrating provisions), the gender adoption gap (a cross-sectional contrast derived from an adoption measure elsewhere, with no output of its own), and women in CIMMYT leadership (an institutional HR measure reported centrally). The groups are never pooled together since they count fundamentally different things (people, hours, instruments, population shares); a gap is not a change, and the direction of improvement is not uniform across indicators. Applied agronomy and farming systems, seed systems and deployment, and system change and transformation intervene at farm/instrument level and contribute across most groups; breeding and varietal development and upstream discovery science report nothing in this pathway, and digital agriculture and AI reports here only where it operates its own measurement of who was reached."
+  },
+  {
+    "volumeNumber": 9,
+    "volumeTitle": "Environmental sustainability",
+    "tagline": "Is the resource base improving, and does the gain persist?",
+    "pathwayType": "Impact Pathway",
+    "indicatorCounts": {
+      "total": 13,
+      "output": 2,
+      "outcome": 7,
+      "impact": 4
+    },
+    "introSummary": "This volume carries the full reference sheets for the Environmental sustainability pathway, one of the thirteen Pathway Volumes within the CIMMYT Indicator Toolbox; all thirteen indicators are Mission indicators serving Primary Objective 4 (agrifood systems rendered more inclusive, efficient, productive, sustainable and climate resilient), with PO3 contributing on the land-management indicators and PO2 on the emissions and biodiversity ones. What separates this pathway from every other in the toolbox is that its outcome and impact layers measure physical states of soil, water, air and biological diversity rather than what people know or decide — a strength because a soil carbon stock cannot be talked up, and a weakness because physical states move slowly, cost money to measure, and respond to weather as much as to practice. The eight indicator groups (sustainable land management, soil health/SOC, nutrient use efficiency for nitrogen and phosphorus, water productivity, pesticide intensity, biodiversity/agrobiodiversity, GHG mitigation and emissions intensity, and carbon sequestration) are measurement domains rather than a single chain, each defined by a distinct data-collection method, and the four impact indicators (an emissions ratio, a hectare count, a carbon stock change and a diversity index) are presented together as a dashboard, never summed or combined."
+  },
+  {
+    "volumeNumber": 10,
+    "volumeTitle": "Policy, finance and market systems",
+    "tagline": "Did the enabling environment change, and did it hold?",
+    "pathwayType": "Impact Pathway",
+    "indicatorCounts": {
+      "total": 16,
+      "output": 10,
+      "outcome": 3,
+      "impact": 3
+    },
+    "introSummary": "This volume carries the full reference sheets for the Policy, finance & market systems pathway, one of the thirteen Pathway Volumes within the CIMMYT Indicator Toolbox. The pathway consists of sixteen indicators, fourteen of them Mission indicators on the Strategy's Excellence in Science and Innovation component, and two (KPI-O58, KPI-OC61) Institutional indicators with no project instance, sitting on the Strategy's Influence and Advocacy for Impact component. This pathway sits underneath every other pathway in the toolbox because a better variety, practice or dataset all stop at the edge of the farm unless someone with authority decides differently, a value chain trades differently, or a financier moves capital; every chain in it ends in a decision made by somebody else. Its four indicator groups are Decision support & evidence products (the shared evidence layer), Policy influence & enactment (the spine, escalating from convening through informing to enactment), Sustainable markets & value chains (piloting through deployment, adoption and market share), and Finance mobilisation (the shortest chain, from investment cases to disbursed finance). The groups are not commensurable and are never pooled across each other."
+  },
+  {
+    "volumeNumber": 11,
+    "volumeTitle": "Institutional performance and operations",
+    "tagline": "Does CIMMYT run well, and is it improving?",
+    "pathwayType": "Enabling Pathway",
+    "indicatorCounts": {
+      "total": 16,
+      "output": 8,
+      "outcome": 8,
+      "impact": 0
+    },
+    "introSummary": "This volume carries the full reference sheets for the Institutional performance & operations pathway, one of the thirteen Pathway Volumes within the CIMMYT Indicator Toolbox. The pathway consists of sixteen indicators, eight at output level and eight at outcome, and it serves Excellence in Operations, one of the five institutional components of the CIMMYT 2030 Strategy; institutional indicators map to that component rather than to a mission Primary Objective, so no primary objective is claimed for any indicator here. Four indicator groups run in parallel and none reaches an impact rung: Compliance, risk & integrity; Institutional sustainability; Operational systems & tools; and Continuous improvement & learning, each built on the same sequence of establishing a mechanism and then measuring whether it is used. No project type contributes to any indicator in this pathway because every indicator is a property of CIMMYT as an organisation, computed once at Center-institutional level from corporate systems, with no project instance at which a project could report."
+  },
+  {
+    "volumeNumber": 12,
+    "volumeTitle": "Workforce and talent",
+    "tagline": "Who works at CIMMYT, and do they stay and thrive?",
+    "pathwayType": "Enabling Pathway",
+    "indicatorCounts": {
+      "total": 5,
+      "output": 2,
+      "outcome": 3,
+      "impact": 0
+    },
+    "introSummary": "This volume carries the full reference sheets for the Workforce & talent pathway, one of the thirteen Pathway Volumes within the CIMMYT Indicator Toolbox. The pathway consists of five indicators, two at output level and three at outcome, and serves Talent Management, one of the five institutional components of the CIMMYT 2030 Strategy; because institutional indicators map to a component rather than to a mission objective, no primary objective is claimed for any indicator here. Three indicator groups run in the order a person meets the organisation - Talent attraction and recruitment, Career development, and Retention and engagement - and none reaches an impact rung, since every indicator is a property of CIMMYT as an employer computed once at Center-institutional level from corporate systems, with no project instance at which any project type could report. The three groups are not commensurable and are never pooled into a single workforce score because their units differ (a binary status, a headcount, a median in days, a composite index score, and percentages)."
+  },
+  {
+    "volumeNumber": 13,
+    "volumeTitle": "Resource mobilization and donor relations",
+    "tagline": "Is the funding base growing, and is it durable?",
+    "pathwayType": "Enabling Pathway",
+    "indicatorCounts": {
+      "total": 7,
+      "output": 3,
+      "outcome": 4,
+      "impact": 0
+    },
+    "introSummary": "This volume carries the full reference sheets for the Resource mobilization & donor relations pathway, one of the thirteen Pathway Volumes in the CIMMYT Indicator Toolbox, now with 7 indicators (3 output, 4 outcome) after KPI-OC59 was retired from this edition. It serves Resource Mobilization, one of the five institutional (enabler) components of the CIMMYT 2030 Strategy rather than a mission objective, so no primary objective is claimed for any indicator here. Three indicator groups run in parallel and none reaches an impact level: Resource mobilisation (submissions KPI-O54 and the win rate KPI-OC55 that uses it as denominator, feeding total new grant income KPI-OC56), Donor relations & networks (donor engagement events KPI-O55 and joint fundraising initiatives KPI-O56, feeding donor retention KPI-OC58 and KPI-OC56), and Strategic & non-traditional funding (new/non-traditional donors onboarded KPI-OC57, feeding KPI-OC56). The component's third 2030 objective, whether funding reaches underfunded or new-to-CIMMYT research-for-development domains, is now explicitly left unmeasured in this edition, answered only in part by an optional domain cut on KPI-OC55, KPI-OC56 and KPI-OC57. None of the seven claims a CGIAR impact area, and no project type contributes to any indicator here, because every indicator is a property of CIMMYT as an organization computed once at Center-institutional level from corporate systems, with no project instance; the three groups are never pooled or averaged together since their units (counts, one US-dollar total, and two percentages on two different denominators) are not commensurable."
+  }
+]

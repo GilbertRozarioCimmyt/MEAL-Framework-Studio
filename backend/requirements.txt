@@ -1,0 +1,27 @@
+# MEAL Framework Studio — Django/MySQL backend dependencies
+# Install with: pip install -r requirements.txt
+
+# Core framework
+Django==5.1.2
+
+# MySQL drivers — mysqlclient is preferred (faster, native C extension).
+# PyMySQL is a pure-Python fallback for environments where mysqlclient
+# cannot compile (Python 3.14, Windows without VS Build Tools, etc.).
+# Install BOTH so settings.py can pick whichever is available.
+mysqlclient==2.2.4
+PyMySQL==1.1.1
+
+# API / middleware
+django-cors-headers==4.4.0
+
+# Environment variables
+python-dotenv==1.0.1
+
+# Anthropic SDK
+anthropic==0.34.2
+
+# Production WSGI server
+gunicorn==23.0.0
+
+# Security / utilities
+cryptography==43.0.1

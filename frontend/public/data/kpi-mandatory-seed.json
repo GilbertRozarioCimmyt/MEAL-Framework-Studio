@@ -1,0 +1,562 @@
+[
+  {
+    "id": "rule_basic-research-gene-editing_KPI-OC01",
+    "projectTypeId": "basic-research-gene-editing",
+    "kpiId": "KPI-OC01",
+    "mandatory": true,
+    "rationale": "Cross-cutting Outcome indicator applicable to every CIMMYT project type \u2014 included as a baseline outcome measure shared across the portfolio. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_basic-research-gene-editing_KPI-OC02",
+    "projectTypeId": "basic-research-gene-editing",
+    "kpiId": "KPI-OC02",
+    "mandatory": true,
+    "rationale": "Cross-cutting Outcome indicator applicable to every CIMMYT project type \u2014 included as a baseline outcome measure shared across the portfolio. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_basic-research-gene-editing_KPI-OC03",
+    "projectTypeId": "basic-research-gene-editing",
+    "kpiId": "KPI-OC03",
+    "mandatory": true,
+    "rationale": "Cross-cutting Outcome indicator applicable to every CIMMYT project type \u2014 included as a baseline outcome measure shared across the portfolio. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_basic-research-gene-editing_KPI-OC04",
+    "projectTypeId": "basic-research-gene-editing",
+    "kpiId": "KPI-OC04",
+    "mandatory": true,
+    "rationale": "Cross-cutting Outcome indicator applicable to every CIMMYT project type \u2014 included as a baseline outcome measure shared across the portfolio. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_basic-research-gene-editing_KPI-OC16",
+    "projectTypeId": "basic-research-gene-editing",
+    "kpiId": "KPI-OC16",
+    "mandatory": true,
+    "rationale": "Cross-cutting Outcome indicator applicable to every CIMMYT project type \u2014 included as a baseline outcome measure shared across the portfolio. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_basic-research-gene-editing_KPI-OC23",
+    "projectTypeId": "basic-research-gene-editing",
+    "kpiId": "KPI-OC23",
+    "mandatory": true,
+    "rationale": "Cross-cutting Outcome indicator applicable to every CIMMYT project type \u2014 included as a baseline outcome measure shared across the portfolio. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_breeding_KPI-I02",
+    "projectTypeId": "breeding",
+    "kpiId": "KPI-I02",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Breeding\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_breeding_KPI-I05",
+    "projectTypeId": "breeding",
+    "kpiId": "KPI-I05",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Breeding\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_breeding_KPI-I07",
+    "projectTypeId": "breeding",
+    "kpiId": "KPI-I07",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Breeding\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_breeding_KPI-I09",
+    "projectTypeId": "breeding",
+    "kpiId": "KPI-I09",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Breeding\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_breeding_KPI-I10",
+    "projectTypeId": "breeding",
+    "kpiId": "KPI-I10",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Breeding\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_breeding_KPI-OC01",
+    "projectTypeId": "breeding",
+    "kpiId": "KPI-OC01",
+    "mandatory": true,
+    "rationale": "Cross-cutting Outcome indicator applicable to every CIMMYT project type \u2014 included as a baseline outcome measure shared across the portfolio. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_breeding_KPI-OC02",
+    "projectTypeId": "breeding",
+    "kpiId": "KPI-OC02",
+    "mandatory": true,
+    "rationale": "Cross-cutting Outcome indicator applicable to every CIMMYT project type \u2014 included as a baseline outcome measure shared across the portfolio. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_breeding_KPI-OC03",
+    "projectTypeId": "breeding",
+    "kpiId": "KPI-OC03",
+    "mandatory": true,
+    "rationale": "Cross-cutting Outcome indicator applicable to every CIMMYT project type \u2014 included as a baseline outcome measure shared across the portfolio. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_breeding_KPI-OC11",
+    "projectTypeId": "breeding",
+    "kpiId": "KPI-OC11",
+    "mandatory": true,
+    "rationale": "Outcome indicator applicable to only 1 of 6 project types \u2014 included because it is distinctive to the \"Breeding\" pathway rather than generic across all types. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_breeding_KPI-OC35",
+    "projectTypeId": "breeding",
+    "kpiId": "KPI-OC35",
+    "mandatory": true,
+    "rationale": "Outcome indicator applicable to only 1 of 6 project types \u2014 included because it is distinctive to the \"Breeding\" pathway rather than generic across all types. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_seed-systems_KPI-I02",
+    "projectTypeId": "seed-systems",
+    "kpiId": "KPI-I02",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Seed Systems\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_seed-systems_KPI-I03",
+    "projectTypeId": "seed-systems",
+    "kpiId": "KPI-I03",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Seed Systems\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_seed-systems_KPI-I05",
+    "projectTypeId": "seed-systems",
+    "kpiId": "KPI-I05",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Seed Systems\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_seed-systems_KPI-I06",
+    "projectTypeId": "seed-systems",
+    "kpiId": "KPI-I06",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Seed Systems\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_seed-systems_KPI-I07",
+    "projectTypeId": "seed-systems",
+    "kpiId": "KPI-I07",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Seed Systems\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_seed-systems_KPI-OC01",
+    "projectTypeId": "seed-systems",
+    "kpiId": "KPI-OC01",
+    "mandatory": true,
+    "rationale": "Cross-cutting Outcome indicator applicable to every CIMMYT project type \u2014 included as a baseline outcome measure shared across the portfolio. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_seed-systems_KPI-OC02",
+    "projectTypeId": "seed-systems",
+    "kpiId": "KPI-OC02",
+    "mandatory": true,
+    "rationale": "Cross-cutting Outcome indicator applicable to every CIMMYT project type \u2014 included as a baseline outcome measure shared across the portfolio. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_seed-systems_KPI-OC03",
+    "projectTypeId": "seed-systems",
+    "kpiId": "KPI-OC03",
+    "mandatory": true,
+    "rationale": "Cross-cutting Outcome indicator applicable to every CIMMYT project type \u2014 included as a baseline outcome measure shared across the portfolio. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_seed-systems_KPI-OC14",
+    "projectTypeId": "seed-systems",
+    "kpiId": "KPI-OC14",
+    "mandatory": true,
+    "rationale": "Outcome indicator applicable to only 2 of 6 project types \u2014 included because it is distinctive to the \"Seed Systems\" pathway rather than generic across all types. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_seed-systems_KPI-OC21",
+    "projectTypeId": "seed-systems",
+    "kpiId": "KPI-OC21",
+    "mandatory": true,
+    "rationale": "Outcome indicator applicable to only 2 of 6 project types \u2014 included because it is distinctive to the \"Seed Systems\" pathway rather than generic across all types. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_digital-innovation_KPI-I02",
+    "projectTypeId": "digital-innovation",
+    "kpiId": "KPI-I02",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Digital Innovation / Digital Components\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_digital-innovation_KPI-I05",
+    "projectTypeId": "digital-innovation",
+    "kpiId": "KPI-I05",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Digital Innovation / Digital Components\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_digital-innovation_KPI-I09",
+    "projectTypeId": "digital-innovation",
+    "kpiId": "KPI-I09",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Digital Innovation / Digital Components\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_digital-innovation_KPI-I10",
+    "projectTypeId": "digital-innovation",
+    "kpiId": "KPI-I10",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Digital Innovation / Digital Components\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_digital-innovation_KPI-I11",
+    "projectTypeId": "digital-innovation",
+    "kpiId": "KPI-I11",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Digital Innovation / Digital Components\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_digital-innovation_KPI-OC01",
+    "projectTypeId": "digital-innovation",
+    "kpiId": "KPI-OC01",
+    "mandatory": true,
+    "rationale": "Cross-cutting Outcome indicator applicable to every CIMMYT project type \u2014 included as a baseline outcome measure shared across the portfolio. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_digital-innovation_KPI-OC02",
+    "projectTypeId": "digital-innovation",
+    "kpiId": "KPI-OC02",
+    "mandatory": true,
+    "rationale": "Cross-cutting Outcome indicator applicable to every CIMMYT project type \u2014 included as a baseline outcome measure shared across the portfolio. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_digital-innovation_KPI-OC03",
+    "projectTypeId": "digital-innovation",
+    "kpiId": "KPI-OC03",
+    "mandatory": true,
+    "rationale": "Cross-cutting Outcome indicator applicable to every CIMMYT project type \u2014 included as a baseline outcome measure shared across the portfolio. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_digital-innovation_KPI-OC38",
+    "projectTypeId": "digital-innovation",
+    "kpiId": "KPI-OC38",
+    "mandatory": true,
+    "rationale": "Outcome indicator applicable to only 4 of 6 project types \u2014 included because it is distinctive to the \"Digital Innovation / Digital Components\" pathway rather than generic across all types. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_digital-innovation_KPI-OC06",
+    "projectTypeId": "digital-innovation",
+    "kpiId": "KPI-OC06",
+    "mandatory": true,
+    "rationale": "Outcome indicator applicable to only 5 of 6 project types \u2014 included because it is distinctive to the \"Digital Innovation / Digital Components\" pathway rather than generic across all types. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_systems-delivery_KPI-I02",
+    "projectTypeId": "systems-delivery",
+    "kpiId": "KPI-I02",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Systems Delivery\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_systems-delivery_KPI-I03",
+    "projectTypeId": "systems-delivery",
+    "kpiId": "KPI-I03",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Systems Delivery\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_systems-delivery_KPI-I05",
+    "projectTypeId": "systems-delivery",
+    "kpiId": "KPI-I05",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Systems Delivery\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_systems-delivery_KPI-I06",
+    "projectTypeId": "systems-delivery",
+    "kpiId": "KPI-I06",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Systems Delivery\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_systems-delivery_KPI-I07",
+    "projectTypeId": "systems-delivery",
+    "kpiId": "KPI-I07",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Systems Delivery\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_systems-delivery_KPI-OC01",
+    "projectTypeId": "systems-delivery",
+    "kpiId": "KPI-OC01",
+    "mandatory": true,
+    "rationale": "Cross-cutting Outcome indicator applicable to every CIMMYT project type \u2014 included as a baseline outcome measure shared across the portfolio. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_systems-delivery_KPI-OC02",
+    "projectTypeId": "systems-delivery",
+    "kpiId": "KPI-OC02",
+    "mandatory": true,
+    "rationale": "Cross-cutting Outcome indicator applicable to every CIMMYT project type \u2014 included as a baseline outcome measure shared across the portfolio. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_systems-delivery_KPI-OC03",
+    "projectTypeId": "systems-delivery",
+    "kpiId": "KPI-OC03",
+    "mandatory": true,
+    "rationale": "Cross-cutting Outcome indicator applicable to every CIMMYT project type \u2014 included as a baseline outcome measure shared across the portfolio. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_systems-delivery_KPI-OC17",
+    "projectTypeId": "systems-delivery",
+    "kpiId": "KPI-OC17",
+    "mandatory": true,
+    "rationale": "Outcome indicator applicable to only 3 of 6 project types \u2014 included because it is distinctive to the \"Systems Delivery\" pathway rather than generic across all types. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_systems-delivery_KPI-OC18",
+    "projectTypeId": "systems-delivery",
+    "kpiId": "KPI-OC18",
+    "mandatory": true,
+    "rationale": "Outcome indicator applicable to only 3 of 6 project types \u2014 included because it is distinctive to the \"Systems Delivery\" pathway rather than generic across all types. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_hub-model_KPI-I02",
+    "projectTypeId": "hub-model",
+    "kpiId": "KPI-I02",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Hub Model\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_hub-model_KPI-I03",
+    "projectTypeId": "hub-model",
+    "kpiId": "KPI-I03",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Hub Model\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_hub-model_KPI-I04",
+    "projectTypeId": "hub-model",
+    "kpiId": "KPI-I04",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Hub Model\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_hub-model_KPI-I05",
+    "projectTypeId": "hub-model",
+    "kpiId": "KPI-I05",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Hub Model\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_hub-model_KPI-I06",
+    "projectTypeId": "hub-model",
+    "kpiId": "KPI-I06",
+    "mandatory": true,
+    "rationale": "Impact-level indicator tagged Mission-scope for \"Hub Model\" projects \u2014 included as core institutional impact evidence for this pathway. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_hub-model_KPI-OC01",
+    "projectTypeId": "hub-model",
+    "kpiId": "KPI-OC01",
+    "mandatory": true,
+    "rationale": "Cross-cutting Outcome indicator applicable to every CIMMYT project type \u2014 included as a baseline outcome measure shared across the portfolio. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_hub-model_KPI-OC02",
+    "projectTypeId": "hub-model",
+    "kpiId": "KPI-OC02",
+    "mandatory": true,
+    "rationale": "Cross-cutting Outcome indicator applicable to every CIMMYT project type \u2014 included as a baseline outcome measure shared across the portfolio. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_hub-model_KPI-OC03",
+    "projectTypeId": "hub-model",
+    "kpiId": "KPI-OC03",
+    "mandatory": true,
+    "rationale": "Cross-cutting Outcome indicator applicable to every CIMMYT project type \u2014 included as a baseline outcome measure shared across the portfolio. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_hub-model_KPI-OC39",
+    "projectTypeId": "hub-model",
+    "kpiId": "KPI-OC39",
+    "mandatory": true,
+    "rationale": "Outcome indicator applicable to only 1 of 6 project types \u2014 included because it is distinctive to the \"Hub Model\" pathway rather than generic across all types. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  },
+  {
+    "id": "rule_hub-model_KPI-OC21",
+    "projectTypeId": "hub-model",
+    "kpiId": "KPI-OC21",
+    "mandatory": true,
+    "rationale": "Outcome indicator applicable to only 2 of 6 project types \u2014 included because it is distinctive to the \"Hub Model\" pathway rather than generic across all types. Draft mandatory rule generated from the KPI library's own scope and level tags (Mission-scope indicator, prioritising Impact-level evidence and cross-cutting/pathway-specific Outcome indicators) so the Mandatory tab is not empty while this project type awaits a rule from CIMMYT's institutionally-maintained compulsory-indicator list. Review, edit or remove in Admin > KPI Rules.",
+    "setBy": "MEAL Framework Studio (draft \u2014 pending validation by CIMMYT's MEAL Unit)",
+    "setAt": "2026-09-22T00:00:00.000Z",
+    "seeded": true
+  }
+]
